@@ -1,4 +1,3 @@
-# latexDocumentation
-Automatically generated Software Document List using latex
+#latex repo
 
-# example project using automation to generate documents regarding software versions
+Interesting stuff using latex
