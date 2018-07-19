@@ -1,3 +1,8 @@
-#latex repo
+# Latex repo
 
-Interesting stuff using latex
+Interesting stuff done in latex
+
+
+# Install
+Linux: sudo apt-get install texlive texmaker
+Windows: TBD
